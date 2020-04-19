@@ -1,0 +1,11 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+
+li a {
+    color: lightgreen;
+}
+
+li a:hover {
+    color: green;
+}
