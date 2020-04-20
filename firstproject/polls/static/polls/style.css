@@ -3,9 +3,9 @@
 }
 
 li a {
-    color: lightgreen;
+    color: lightskyblue;
 }
 
 li a:hover {
-    color: green;
+    color: deepskyblue;
 }
